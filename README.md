@@ -5,7 +5,7 @@ A simple tool to generate beautiful and attractive gradients for your website! �
 ![Gradient Generator Screenshot](screenshot.png)
 
 🎥 **Live Demo**
-Check out the live version of the website: [Gradient Generator]()
+Check out the live version of the website: [Gradient Generator](https://gradientgeneratorbygouranga.tiiny.site)
 
 
 **🛠️ Technologies:**
@@ -45,6 +45,7 @@ Gradient-Generator/
 1.  Clone this repository:
 
     ```bash
+    git@github.com:GourangaDasSamrat/Gradient-Generator.git
 
 2.  Navigate to the project directory:
     ```bash
@@ -54,7 +55,7 @@ Gradient-Generator/
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://gradientgeneratorbygouranga.tiiny.site) to see this project on internet.**
 
 ## 👏 Contributing
 
