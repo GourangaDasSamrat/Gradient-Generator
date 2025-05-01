@@ -5,7 +5,7 @@ A simple tool to generate beautiful and attractive gradients for your website! �
 ![Gradient Generator Screenshot](screenshot.png)
 
 🎥 **Live Demo**
-Check out the live version of the website: [Gradient Generator](https://gradientgeneratorbygouranga.tiiny.site)
+Check out the live version of the website: [Gradient Generator](https://gradient-generator-lovat.vercel.app/)
 
 
 **🛠️ Technologies:**
@@ -55,7 +55,7 @@ Gradient-Generator/
 
 or
 
-**[Click here](https://gradientgeneratorbygouranga.tiiny.site) to see this project on internet.**
+**[Click here](https://gradient-generator-lovat.vercel.app/) to see this project on internet.**
 
 ## 👏 Contributing
 
